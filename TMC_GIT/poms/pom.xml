@@ -14,6 +14,7 @@
     <module>jobs/process/configtask_0.1</module>
     <module>jobs/process/createplan_0.1</module>
     <module>jobs/process/createre_0.1</module>
+    <module>jobs/process/executeplan_0.1</module>
     <module>jobs/process/firsttask_0.1</module>
     <module>jobs/process/getids_0.1</module>
     <module>jobs/process/job1_0.1</module>
