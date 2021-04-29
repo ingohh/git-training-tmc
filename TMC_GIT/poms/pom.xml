@@ -16,7 +16,9 @@
     <module>jobs/process/createre_0.1</module>
     <module>jobs/process/executeplan_0.1</module>
     <module>jobs/process/firsttask_0.1</module>
+    <module>jobs/process/generatelogs_0.1</module>
     <module>jobs/process/getids_0.1</module>
+    <module>jobs/process/getomc_0.1</module>
     <module>jobs/process/job1_0.1</module>
     <module>jobs/process/job2_0.1</module>
     <module>jobs/process/mainjob_0.1</module>
